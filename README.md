@@ -6,7 +6,7 @@ A source-grounded workflow for reading papers, connecting mathematics to small e
 
 从论文中的一个问题出发，把原文定位、解释、推导、小实验和反馈连接起来，形成可回看、可追溯的学习记录。目前以 Attention 和扩散模型相关学习为主要案例。
 
-**项目展示 · 实现在私有仓库维护 · 本仓库不包含源码或完整个人学习记录**
+**项目展示 · [源码与 MIT 许可证](https://github.com/by-lastime/research-learning-workflow) · 个人学习记录不公开**
 
 ## 一次学习如何推进
 
